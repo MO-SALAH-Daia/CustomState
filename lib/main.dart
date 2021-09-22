@@ -15,7 +15,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: FutureNotifirePage(title: 'Flutter Demo Home Page'),
+      // home: FutureNotifierPage(title: 'Flutter Demo Home Page'),
+      home: ValueNotifierPage(title: 'Flutter Demo Home Page'),
     );
   }
 }
