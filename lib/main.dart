@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:manual_observer/pages/future_notifire_page.dart';
-import 'package:manual_observer/pages/value_notifire_page.dart';
+import 'package:manual_observer/pages/value_notifier_page.dart';
 
 void main() {
   runApp(MyApp());
